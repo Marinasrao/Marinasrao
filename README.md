@@ -40,7 +40,7 @@ Aquí podés encontrar algunos de mis proyectos más recientes que desarrollé d
 Podés contactarme por:
 
 - 📧 **Email**: marinasoledadrao.gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/MarinaRao)
+- 💼 [LinkedIn](https://www.linkedin.com/in/Marina Rao)
   
 
 Gracias por visitar mi perfil 🙌 ¡Estoy abierta a nuevas oportunidades!
