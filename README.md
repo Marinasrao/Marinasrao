@@ -1,47 +1,84 @@
 # 👩‍💻 ¡Hola! Soy Marina Rao
 
-Soy **Professional Developer** con formación sólida en desarrollo full stack y una pasión especial por crear experiencias web funcionales y atractivas.
+### Full Stack Java Developer
 
-Actualmente estoy finalizando mi etapa de formación, pero ya cuento con una base técnica fuerte y proyectos reales desarrollados, listos para producción.
+Desarrollo aplicaciones web completas, trabajando desde la lógica de negocio y la base de datos hasta interfaces modernas y despliegues en producción.
 
----
-
-### 🚀 Tecnologías que manejo
-
-- **Frontend**: React, Vite, HTML5, CSS3 (modular), JavaScript (ES6+)
-- **Backend**: Java, Spring Boot, REST APIs
-- **Bases de datos**: MySQL, PostgreSQL
-- **Herramientas**: Git & GitHub, Postman, Visual Studio Code, IntelliJ
+Mi stack principal está orientado al ecosistema **Java + Spring Boot**, complementado con **React y MySQL** para construir soluciones Full Stack.
 
 ---
 
-### 💼 Proyectos destacados
+## 🚀 Tecnologías
 
-Aquí podés encontrar algunos de mis proyectos más recientes que desarrollé desde cero, tanto frontend como backend:
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- JPA / Hibernate
+- REST APIs
+- JWT
 
-- ✈️ **Sistema de reservas aéreas**: con panel de administración, asignación automática de asientos, búsquedas por fecha y clase, imágenes optimizadas y más.
-- 🏨 **Gestión de alojamientos** (en desarrollo): proyecto centrado en CRUD avanzado, filtros por categoría y manejo de usuarios.
-- 🎨 **Portfolio web**: un sitio responsive con mi estilo personal y presentación profesional.
+### Frontend
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Vite
 
-> Todos mis proyectos tienen código bien organizado, componentes reutilizables, rutas protegidas y buenas prácticas de diseño.
+### Base de datos
+- MySQL
+- SQL
+- MySQL Workbench
 
+### Herramientas y deploy
+- Git & GitHub
+- Postman
+- IntelliJ IDEA
+- Visual Studio Code
+- Railway
+- Netlify
+- Resend
 
+---
 
-### 🎯 Objetivos
+## 💼 Proyectos destacados
 
-- Consolidar mi experiencia en entornos reales de desarrollo.
-- Participar de equipos colaborativos y ágiles.
-- Seguir aprendiendo, siempre. Especialmente sobre testing, accesibilidad y performance.
+### 🌸 ByBloom
 
+Plataforma web Full Stack desarrollada a medida para la gestión de servicios y reservas de turnos online.
 
+Incluye autenticación y roles, disponibilidad dinámica, panel administrativo, gestión de profesionales, emails automáticos y despliegue en producción con dominio propio.
 
-### 📬 Contacto
+**Stack:** Java · Spring Boot · React · MySQL · Spring Security · JWT
 
-Podés contactarme por:
+🔗 https://bybloomestetica.com
 
-- 📧 **Email**: marinasoledadrao.gmail.com
-- 💼  [Conectá conmigo en LinkedIn](https://www.linkedin.com/in/marina-rao-47a39b215/)
+---
 
-  
+### ✈️ FlightBooking
 
-Gracias por visitar mi perfil 🙌 ¡Estoy abierta a nuevas oportunidades!
+Proyecto integrador Full Stack orientado a la búsqueda y reserva de vuelos.
+
+Permite realizar búsquedas por origen y destino, consultar disponibilidad, gestionar pasajeros, seleccionar asientos y completar reservas mediante un flujo conectado con el backend.
+
+**Stack:** Java · Spring Boot · React · MySQL · Spring Security · JWT · JPA/Hibernate
+
+---
+
+## 🎓 Formación
+
+**Professional Developer — Digital House**  
+2026 · 202 horas de formación
+
+---
+
+## 📫 Contacto
+
+📧 marinaraodev@gmail.com
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/marina-rao-47a39b215/
+
+---
+
+### 💜 Construyendo soluciones, aprendiendo constantemente y transformando ideas en aplicaciones reales.
